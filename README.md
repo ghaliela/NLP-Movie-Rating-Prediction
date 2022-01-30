@@ -15,6 +15,6 @@ Both notebooks use the same csv file, so the same manipulation described above i
 
 Link to the kaggle notebooks:
 
-*[transformer model](https://www.kaggle.com/ghaliela/transformer-model-to-predict-movie-rating)
+* [transformer model](https://www.kaggle.com/ghaliela/transformer-model-to-predict-movie-rating)
 
-*[LSTM  model](https://www.kaggle.com/ghaliela/lstm-model-for-predict-rating)
+* [LSTM  model](https://www.kaggle.com/ghaliela/lstm-model-for-predict-rating)
